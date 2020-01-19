@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -10,12 +8,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="74.000008"
+   height="74"
+   viewBox="0 0 74.000008 74.000003"
    version="1.1"
    id="svg4175"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
    sodipodi:docname="glogo-and-circle.svg">
   <defs
      id="defs4169">
@@ -59,17 +57,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="400"
-     inkscape:cy="560"
-     inkscape:document-units="mm"
+     inkscape:zoom="4.2798198"
+     inkscape:cx="29.419866"
+     inkscape:cy="41.033897"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1278"
-     inkscape:window-height="1012"
+     inkscape:window-width="1440"
+     inkscape:window-height="805"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:document-rotation="0"
+     units="px"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2" />
   <metadata
      id="metadata4172">
     <rdf:RDF>
@@ -78,17 +82,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0.87737882,-81.432144)">
     <g
        id="g3755-8"
-       transform="matrix(1.2010092,0,0,1.2010092,356.63009,-536.8076)">
+       transform="matrix(0.40144242,0,0,0.40144242,119.9525,-123.88562)">
       <path
          style="fill:#333333;fill-opacity:1;stroke:none"
          d="m -121.63606,603.61774 a 87.185608,87.185608 0 0 1 -87.18561,87.1856 87.185608,87.185608 0 0 1 -87.18561,-87.1856 87.185608,87.185608 0 0 1 87.18561,-87.18561 87.185608,87.185608 0 0 1 87.18561,87.18561 z"

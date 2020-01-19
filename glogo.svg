@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -10,12 +8,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="60.474464"
+   height="74"
+   viewBox="0 0 60.474464 74.000003"
    version="1.1"
    id="svg4423"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
    sodipodi:docname="glogo.svg">
   <defs
      id="defs4417">
@@ -59,17 +57,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="400"
-     inkscape:cy="560"
-     inkscape:document-units="mm"
+     inkscape:zoom="2.4592783"
+     inkscape:cx="-127.25908"
+     inkscape:cy="-24.24513"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1278"
-     inkscape:window-height="1012"
+     inkscape:window-width="1440"
+     inkscape:window-height="805"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:document-rotation="0"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2"
+     units="px" />
   <metadata
      id="metadata4420">
     <rdf:RDF>
@@ -78,17 +82,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-3.7267084,-2.3884998)">
     <g
        id="g4283"
-       transform="matrix(1.8310104,0,0,1.8310104,-49.227815,-1291.1983)">
+       transform="matrix(0.5087917,0,0,0.5087917,-9.5437704,-355.62246)">
       <g
          transform="translate(-35.560306,-3.8568871)"
          id="text2985-0-8-7-1-2-9-7-2-9-72-0-3-5-4-23-4-3-1-2-3"
